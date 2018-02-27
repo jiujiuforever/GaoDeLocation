@@ -1,0 +1,17 @@
+{
+  "name": "com.chenwl.GaoDeLocation",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.chenwl.GaoDeLocation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
